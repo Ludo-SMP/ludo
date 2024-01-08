@@ -1,8 +1,12 @@
 # Study-Matching-Platform
 (프로젝트의 간단한 한마디)
 
+<br>
+
 ## Teams
 (맴버들의 프로필, 닉네임)
+
+<br>
 
 ## Branch Guide
 - main: 최종 배포 (ver 1.0)
@@ -13,7 +17,18 @@
 2. PR에 대한 코드 리뷰 진행 (컨벤션 준수, 효율성, 개선점 등)
 3. 리뷰 통과시 Merge
 
-## Git Convention
+<br>
+
+## PR Convention
+### Format
+```
+type(Capitalization 적용): subject label
+
+```
+
+<br>
+
+## Commit Convention
 
 ### Format
 
@@ -23,7 +38,9 @@ type: subject
 body
 ```
 
-#### type
+<br>
+
+## type
 
 - 하나의 커밋에 여러 타입이 존재하는 경우 상위 우선순위의 타입을 사용한다.
 - fix: 버스 픽스
@@ -35,14 +52,14 @@ body
 - chore: 빌드 테스트 업데이트, 패키지 매니저를 설정하는 경우 (프로덕션 코드 변경 X)
 
 
-#### subject
+## subject
 
 - 제목은 50글자를 넘지 않도록 한다.
 - 개조식 구문 사용
     - 중요하고 핵심적인 요소만 간추려서 (항목별로 나열하듯이) 표현
 - 마지막에 특수문자를 넣지 않는다. (마침표, 느낌표, 물음표 등)
 
-#### body (optional)
+## body (optional)
 
 - 각 라인별로 balled list로 표시한다.
     - 예시) - AA
