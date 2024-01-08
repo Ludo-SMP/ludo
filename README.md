@@ -22,7 +22,7 @@
 ## PR Convention
 ### Format
 ```
-type(Capitalization 적용): subject label
+type(Capitalization 적용): subject 관련 label 적용
 
 ```
 
