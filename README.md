@@ -5,7 +5,13 @@
 (맴버들의 프로필, 닉네임)
 
 ## Branch Guide
-(git flow 작성) 
+- main: 최종 배포 (ver 1.0)
+- develop: 다음 버전 준비 (ver 2.0)
+- feature-관련 기능
+
+1. 여러 feature 브랜치가 만들어지고 완료된 경우 develop 브랜치에 PR 남김
+2. PR에 대한 코드 리뷰 진행 (컨벤션 준수, 효율성, 개선점 등)
+3. 리뷰 통과시 Merge
 
 ## Git Convention
 
