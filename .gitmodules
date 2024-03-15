@@ -1,6 +1,0 @@
-[submodule "ludo-frontend"]
-	path = ludo-frontend
-	url = https://github.com/Ludo-SMP/ludo-frontend.git
-[submodule "ludo-backend"]
-	path = ludo-backend
-	url = https://github.com/Ludo-SMP/ludo-backend.git
