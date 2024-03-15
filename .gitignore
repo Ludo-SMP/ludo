@@ -1,5 +1,5 @@
 ## submodules
-.gitmodules
+*.gitmodules
 
 ## gitignore
-.gitignore
+*.gitignore
