@@ -42,42 +42,42 @@
 메인페이지에서 원하는 카테고리의 스터디 모집공고를 확인할 수 있어요.
 <details markdown="1">
 <summary>메인페이지에서 스터디 조회</summary>
-  <img width="600" src="src/Assets/images/search1.gif">
+  <img width="600" src="readme-files/search.gif">
 </details>
 
 모집공고 모아보기 페이지에서는 필터를 통해 원하는 스터디 모집공고를 확인할 수 있어요.
 
 <details markdown="1">
 <summary>모집공고 모아보기 페이지에서 필터링을 통한 스터디 모집공고 조회</summary>
-  <img width="600" src="src/Assets/images/search2.gif">
+  <img width="600" src="readme-files/filter-search.gif">
 </details>
 
 ### ✔︎ 스터디 지원
 스터디 모집공고 상세 페이지에서 원하는 스터디 모집공고에 지원할 수 있어요.
 <details markdown="1">
 <summary>스터디 지원</summary>
-  <img width="600" src="src/Assets/images/apply.gif">
+  <img width="600" src="readme-files/apply.gif">
 </details>
 
 ### ✔︎ 스터디 생성
 로그인한 사용자는 스터디 생성페이지에서 스터디를 생성할 수 있어요.
 <details markdown="1">
 <summary>스터디 생성</summary>
-  <img width="600" src="src/Assets/images/study.gif">
+  <img width="600" src="readme-files/study.gif">
 </details>
 
 ### ✔︎ 스터디 모집공고 생성
 생성된 스터디에 대한 모집공고를 생성할 수 있어요.
 <details markdown="1">
 <summary>스터디 모집공고 생성</summary>
-  <img width="600" src="src/Assets/images/recruitment.gif">
+  <img width="600" src="readme-files/recruitment.gif">
 </details>
 
 ### ✔︎ 마이페이지
 마이페이지에서 참여중인 스터디, 지원한 스터디, 진행 완료된 스터디를 확인할 수 있어요.
 <details markdown="1">
 <summary>마이페이지</summary>
-  <img width="600" src="src/Assets/images/mypage.gif">
+  <img width="600" src="readme-files/mypage.gif">
 </details>
 <br>
 
