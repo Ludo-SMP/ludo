@@ -57,7 +57,7 @@
 
 ### 📄 기능 명세
 
-#### 📓 [API 설계서](http://34.82.109.226/swagger-ui/index.html#/)
+#### 📓 [API 설계서](http://35.227.190.157/api/swagger-ui/index.html#/)
 
 #### 📓 [페이지 기능명세서](https://docs.google.com/spreadsheets/d/1TejPT93Gi3ztsGqPt5lpAY1UMFvruP80D9pFmkwy1fI/edit?invite=CLS0q4EH#gid=0)
 
