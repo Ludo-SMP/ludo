@@ -11,74 +11,155 @@
 
 ## 📎 [Ludo 바로가기](https://ludoapi.store/)
 
+## **🧑‍🎨 프로젝트 기획 의도**
+
+- **누구나 쉽고 빠르게 지속 가능한 스터디에 참여할 수 있는 플랫폼입니다. 스터디 지원부터 참여, 관리까지 모든 과정을 한 곳에서 통합적으로 관리해 지속 가능한 학습 환경을 조성하는 것을 목표로 하고 있습니다.**
+
+<br>
+
 ## 💡 프로젝트 소개
-**스터디 지원부터 참여, 관리까지**<br>
-**누구나 쉽고 빠르게 지속 가능한 스터디에 참여할 수 있는 스터디 플랫폼입니다.**
+
+- **스터디 지원부터 참여, 관리까지 누구나 쉽고 빠르게 지속 가능한 스터디에 참여할 수 있는 스터디 플랫폼입니다.**
+  
+<br>  
 
 ## 🎬 프로젝트 진행상황
+
 ### ✔︎ 진행기간 : 2023.12.15 ~ 진행 중
+
 #### ✔︎ 1차 마일스톤 : 2023.12.15 ~ 2024.03.15
-#### ✔︎ 1차 유저 테스트 : 2024.3.26 ~ 2024.3.30
-#### ✔︎ 2차 마일스톤 : 2024.04.02 ~ 
+
+#### ✔︎ 1차 유저 테스트 : 2024.03.26 ~ 2024.03.30
+
+#### ✔︎ 2차 마일스톤 : 2024.04.02 ~ 2024.07.11
+
+#### ✔︎ 2차 유저 테스트 : 2024.05.04 ~ 2024.05.11
+
+#### ✔︎ 3차 유저 테스트 : 2024.07.04 ~ 2024.07.11
+
+#### ✔︎ 3차 마일스톤 : 2024.07.16 ~ 2024.09.03
+
+<br>
 
 ## 📋 프로젝트 자료
+
 ### 🖌 기획
+
 #### 📓 [유저 스토리](https://docs.google.com/spreadsheets/d/14xlWLKUEV8hrthsYjRFmHcRLDtWRKmthFgiiYNGrhwA/edit#gid=0) 
+
 #### 📓 [페이지 Flow Chart](https://www.figma.com/file/aCw6w4LCjTczfRGlmD1bhV/Page-flow-chart?type=whiteboard&node-id=0-1&t=99pRF5UZwzy7u5i5-0) <br>
+
 #### 📓 [브레인 스토밍](https://www.figma.com/file/VSxOLuyKKZobloOcFja93N/Brain-storming?type=whiteboard&node-id=2-94&t=UZ5vevbuqABdPsBq-0)
+
 #### 📓 [IA(정보 구조도)](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=206-31&mode=design&t=YTrENpZjUN2rJ4Dj-0)
 
 ### 📄 기능 명세
+
 #### 📓 [API 설계서](http://34.82.109.226/swagger-ui/index.html#/)
+
 #### 📓 [페이지 기능명세서](https://docs.google.com/spreadsheets/d/1TejPT93Gi3ztsGqPt5lpAY1UMFvruP80D9pFmkwy1fI/edit?invite=CLS0q4EH#gid=0)
 
 ### 🎨 디자인
+
 #### 📓 [페이지 디자인](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=281-174&mode=design&t=TeYlIf3mTucRE1I6-0)
+
 #### 📓 [디자인 시스템](https://www.figma.com/file/OLgSF11mOFN5MpcYzpD3N3/Design-System?type=design&node-id=1121-950&mode=design&t=2ZrFmOMMTcunVk5h-0)
 
-## 🛠 주요 기능
+<br>
+
+## 🛠 주요 기능
 
 ### ✔︎ 스터디 모집공고 조회
-메인페이지에서 원하는 카테고리의 스터디 모집공고를 확인할 수 있어요.
+
+- **메인페이지에서 원하는 카테고리의 스터디 모집공고를 확인할 수 있어요.**
+
 <details markdown="1">
 <summary>메인페이지에서 스터디 조회</summary>
   <img width="600" src="readme-files/search.gif">
 </details>
 
-모집공고 모아보기 페이지에서는 필터를 통해 원하는 스터디 모집공고를 확인할 수 있어요.
+- **모집공고 모아보기 페이지에서는 필터를 통해 원하는 스터디 모집공고를 확인할 수 있어요.**
 
 <details markdown="1">
 <summary>모집공고 모아보기 페이지에서 필터링을 통한 스터디 모집공고 조회</summary>
   <img width="600" src="readme-files/filter-search.gif">
 </details>
 
+
 ### ✔︎ 스터디 지원
-스터디 모집공고 상세 페이지에서 원하는 스터디 모집공고에 지원할 수 있어요.
+
+- **스터디 모집공고 상세 페이지에서 원하는 스터디 모집공고에 지원할 수 있어요.**
+
 <details markdown="1">
 <summary>스터디 지원</summary>
   <img width="600" src="readme-files/apply.gif">
 </details>
 
+
 ### ✔︎ 스터디 생성
-로그인한 사용자는 스터디 생성페이지에서 스터디를 생성할 수 있어요.
+
+- **로그인한 사용자는 스터디 생성페이지에서 스터디를 생성할 수 있어요.**
+
 <details markdown="1">
 <summary>스터디 생성</summary>
   <img width="600" src="readme-files/study.gif">
 </details>
 
+
 ### ✔︎ 스터디 모집공고 생성
-생성된 스터디에 대한 모집공고를 생성할 수 있어요.
+
+- **생성된 스터디에 대한 모집공고를 생성할 수 있어요.**
+
 <details markdown="1">
 <summary>스터디 모집공고 생성</summary>
   <img width="600" src="readme-files/recruitment.gif">
 </details>
 
+
 ### ✔︎ 마이페이지
-마이페이지에서 참여중인 스터디, 지원한 스터디, 진행 완료된 스터디를 확인할 수 있어요.
+
+- **마이페이지에서 참여중인 스터디, 지원한 스터디, 진행 완료된 스터디를 한눈에 확인할 수 있어 효율적인 학습 관리가 가능해요.**
+
 <details markdown="1">
 <summary>마이페이지</summary>
   <img width="600" src="readme-files/mypage.gif">
 </details>
+
+<br>
+
+## 🛠 Ludo의 특장점
+
+### ✔︎ 신뢰도 시스템
+
+- **더욱 멋진 스터디 경험을 위한 사용자 신뢰도 시스템. 사용자 리뷰 평가와 출석 기록으로 산정되는 신뢰도 시스템은 여러분의 스터디 경험을 향상해 줄 거예요. 사용자 신뢰도 시스템은 스터디를 진행하며 발생할 수 있는 갈등 상황을 최소화 하기 위해 도입되었어요.**
+
+<details markdown="1">
+<summary>신뢰도 시스템</summary>
+</details>
+
+### ✔︎ 자동 출석 체크 시스템
+
+- **번거로운 출석 확인 작업을 자동화한 시스템으로 버튼 하나로 모든 스터디원의 출석 체크 현황을 파악할 수 있어요.**
+
+<details markdown="1">
+<summary>자동 출석 체크 시스템</summary>
+</details>
+
+### ✔︎ 실시간 알림 시스템
+
+- **원하는 정보를 전달하는 실시간 알림 시스템. 진행 중인 스터디에 변경 사항이 있을까 마음 졸이지 않아도 괜찮아요. Ludo가 실시간으로 알림을 보내드릴게요.**
+- **관심있는 주제의 스터디 모집 공고가 있을 때, 알림으로 해당 스터디를 추천해주는 기능을 제공해요.**
+
+<details markdown="1">
+<summary>실시간 알림 시스템</summary>
+</details>
+
+<br>
+
+## 기대효과
+
+**누구나 쉽고 빠르게 지속 가능한 스터디에 참여할 수 있는 플랫폼을 개발하여, 스터디 문화가 적극적으로 활성화 되지 않은 지역의 교육적 격차를 없애고 정보의 불평등을 해소할 수 있을 것으로 기대합니다.**
+
 <br>
 
 ## Ludo Team
@@ -90,36 +171,54 @@
 5. 실 사용자가 있는 서비스를 개발 및 운영
 
 ### 🙋🏻‍♂️ BE 팀원
+
 <table >
   <tbody>
       <td align="center">
         <a href="https://github.com/Hugh-KR">
             <img src="https://avatars.githubusercontent.com/u/83931353?v=4" width="200px;" height="200px;" alt="휴"/>
-<h3><b>휴</b></h3></a></td>
+<h3><b>창혁(Hugh)</b></h3></a></td>
         <td align="center">
         <a href="https://github.com/june-777">
-            <img src="https://avatars.githubusercontent.com/u/68291395?v=4" width="200px;" height="200px;" alt="김준기"/>
-<h3><b>김준기</b></h3></a></td>
+            <img src="https://avatars.githubusercontent.com/u/68291395?v=4" width="200px;" height="200px;" alt="김준기"/>
+<h3><b>준기(Archa)</b></h3></a></td>
         <td align="center">
         <a href="https://github.com/zxcev">
-            <img src="https://avatars.githubusercontent.com/u/121966058?v=4" width="200px;" height="200px;" alt="빽"/>
-<h3><b>빽</b></h3></a></td>
+            <img src="https://avatars.githubusercontent.com/u/121966058?v=4" width="200px;" height="200px;" alt="빽"/>
+<h3><b>승호(Back)</b></h3></a></td>
   </tbody>
 </table>
 
 <br>
 
 ### 🙋🏻‍♂️ FE 팀원
+
 <table >
   <tbody>
         <td align="center">
         <a href="https://github.com/SungHyun627">
-            <img src="https://github.com/Ludo-SMP/ludo-frontend/assets/62270427/17abec8f-0a5b-4993-83ce-05b5bebbc2fa" width="200px;" height="200px;" alt="김성현"/>
-<h3><b>김성현</b></h3></a></td>
+            <img src="https://github.com/Ludo-SMP/ludo-frontend/assets/62270427/17abec8f-0a5b-4993-83ce-05b5bebbc2fa" width="200px;" height="200px;" alt="성현"/>
+<h3><b>성현(Hyun)</b></h3></a></td>
+    <td align="center">
+        <a href="https://github.com/hyosin-Jang">
+            <img src="https://avatars.githubusercontent.com/u/71035113?v=4" width="200px;" height="200px;" alt="효신"/>
+<h3><b>효신(Claire)</b></h3></a></td>
       <td align="center">
-        <a href="https://github.com/kmin-jeong">
-            <img src="https://avatars.githubusercontent.com/u/53456037?v=4" width="200px;" height="200px;" alt="타로"/>
-<h3><b>타로</b></h3></a></td>
+        <a href="https://github.com/abiriadev">
+            <img src="https://avatars.githubusercontent.com/u/72962900?v=4" width="200px;" height="200px;" alt="헌의"/>
+<h3><b>헌의(Abiria)</b></h3></a></td>
+  </tbody>
+</table>
+
+<br>
+
+### 🙋🏻‍♂️ Design 팀원
+
+<table >
+  <tbody>
+        <td align="center">
+            <img src="https://github.com/user-attachments/assets/d7278a73-0c93-494c-a57c-2ab351cd5932" width="200px;" height="200px;" alt="정효"/>
+<h3><b>정효(Poki)</b></h3></td>
   </tbody>
 </table>
 
