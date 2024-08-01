@@ -198,6 +198,28 @@
 
 <br>
 
+## 🛠️ Tech Stacks
+
+### Back-end
+
+### Front-end
+
+<br>
+
+## 🔨 Architecture
+
+![1695948352414](https://github.com/user-attachments/assets/283d500d-4fe4-4006-a779-034d5791c67e)
+
+![Ludo-아키텍처 구조 (1201 x 601 px)](https://github.com/user-attachments/assets/3648a3ff-b92e-4db0-aa1d-123e024b4569)
+
+<br>
+
+## 💾 Database Structure
+
+![ludo-ERD](https://github.com/user-attachments/assets/b43b7bb5-33a4-4638-8371-c295325121de)
+
+<br>
+
 ## Branch Convention
 
 ```
@@ -267,26 +289,4 @@ body
 - 가능하면 한줄당 72자를 넘지 않도록 한다.
 - 본문의 양에 구애받지 않고 최대한 상세히 작성
 - “어떻게” 보다는 “무엇을" “왜” 변경했는지 설명한다.
-
-<br>
-
-## 🛠️ Tech Stacks
-
-### Back-end
-
-### Front-end
-
-<br>
-
-## 🔨 Architecture
-
-![1695948352414](https://github.com/user-attachments/assets/283d500d-4fe4-4006-a779-034d5791c67e)
-
-![Ludo-아키텍처 구조 (1201 x 601 px)](https://github.com/user-attachments/assets/3648a3ff-b92e-4db0-aa1d-123e024b4569)
-
-<br>
-
-## 💾 Database Structure
-
-![ludo-ERD](https://github.com/user-attachments/assets/b43b7bb5-33a4-4638-8371-c295325121de)
 
