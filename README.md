@@ -201,6 +201,9 @@
 ## 🛠️ Tech Stacks
 
 ### Back-end
+![백엔드_기술스택 drawio](https://github.com/user-attachments/assets/c71b1399-e0bd-4065-b237-6ef28bdfb53a)
+
+<br>
 
 ### Front-end
 
