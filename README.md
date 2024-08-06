@@ -79,20 +79,28 @@
 - **모집공고 모아보기 페이지에서는 필터를 통해 원하는 스터디 모집공고를 확인할 수 있어요.**
 <img width="600" src="readme-files/filter-search.gif">
 
+<br>
+
 ### ✔︎ 스터디 지원
 
 - **스터디 모집공고 상세 페이지에서 원하는 스터디 모집공고에 지원할 수 있어요.**
 <img width="600" src="readme-files/apply_2.0.gif">
+
+<br>
 
 ### ✔︎ 스터디 생성
 
 - **로그인한 사용자는 스터디 생성페이지에서 스터디를 생성할 수 있어요.**
 <img width="600" src="readme-files/study_2.0.gif">
 
+<br>
+
 ### ✔︎ 스터디 모집공고 생성
 
 - **생성된 스터디에 대한 모집공고를 생성할 수 있어요.**
 <img width="600" src="readme-files/recruitment_2.0.gif">
+
+<br>
 
 ### ✔︎ 마이페이지
 
@@ -106,27 +114,23 @@
 ### ✔︎ 신뢰도 시스템
 
 - **더욱 멋진 스터디 경험을 위한 사용자 신뢰도 시스템. 사용자 리뷰 평가와 출석 기록으로 산정되는 신뢰도 시스템은 여러분의 스터디 경험을 향상해 줄 거예요. 사용자 신뢰도 시스템은 스터디를 진행하며 발생할 수 있는 갈등 상황을 최소화 하기 위해 도입되었어요.**
+<img width="600" src="readme-files/reliability1_2.0.png">
+<img width="600" src="readme-files/reliability2_2.0.png">
 
-<details markdown="1">
-<summary>신뢰도 시스템</summary>
-</details>
+<br>
 
 ### ✔︎ 자동 출석 체크 시스템
 
 - **번거로운 출석 확인 작업을 자동화한 시스템으로 버튼 하나로 모든 스터디원의 출석 체크 현황을 파악할 수 있어요.**
+<img width="600" src="readme-files/AutomaticAttendance_2.0.gif">
 
-<details markdown="1">
-<summary>자동 출석 체크 시스템</summary>
-</details>
+<br>
 
 ### ✔︎ 실시간 알림 시스템
 
 - **원하는 정보를 전달하는 실시간 알림 시스템. 진행 중인 스터디에 변경 사항이 있을까 마음 졸이지 않아도 괜찮아요. Ludo가 실시간으로 알림을 보내드릴게요.**
 - **관심있는 주제의 스터디 모집 공고가 있을 때, 알림으로 해당 스터디를 추천해주는 기능을 제공해요.**
-
-<details markdown="1">
-<summary>실시간 알림 시스템</summary>
-</details>
+<img width="600" src="readme-files/notification_2.0.gif">
 
 <br>
 
