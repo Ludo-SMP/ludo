@@ -201,11 +201,25 @@
 ## 🛠️ Tech Stacks
 
 ### Back-end
-![백엔드_기술스택 drawio](https://github.com/user-attachments/assets/c71b1399-e0bd-4065-b237-6ef28bdfb53a)
+![백엔드_기술스택](https://github.com/user-attachments/assets/d34681fc-27d5-40eb-b90f-1d65d5bd570b)
+
+
 
 <br>
 
 ### Front-end
+![프론트_기술스택](https://github.com/user-attachments/assets/a66045e3-15eb-4e05-aa01-dbdd6a52c1ed)
+
+<br>
+
+### Infra
+![인프라_기술스택](https://github.com/user-attachments/assets/19e83e88-7076-42f1-8f99-11c321f974a0)
+
+<br>
+
+### Collaboration
+![협업_기술스택](https://github.com/user-attachments/assets/e7a1cde8-ef06-437b-8e56-df995677a962)
+
 
 <br>
 
