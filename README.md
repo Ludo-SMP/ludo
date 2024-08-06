@@ -206,24 +206,13 @@
 ## 🛠️ Tech Stacks
 
 ### Back-end
-![백엔드_기술스택](https://github.com/user-attachments/assets/d34681fc-27d5-40eb-b90f-1d65d5bd570b)
-
-
-
-<br>
+![백엔드_기술스택](https://github.com/user-attachments/assets/fcce9f9c-a632-4c55-9384-cf4c249341df)
 
 ### Front-end
-![프론트_기술스택](https://github.com/user-attachments/assets/a66045e3-15eb-4e05-aa01-dbdd6a52c1ed)
+![프론트_기술스택](https://github.com/user-attachments/assets/ad896334-d01a-429c-9f2f-ede2e266fe0d)
 
-<br>
-
-### Infra
-![인프라_기술스택](https://github.com/user-attachments/assets/19e83e88-7076-42f1-8f99-11c321f974a0)
-
-<br>
-
-### Collaboration
-![협업_기술스택](https://github.com/user-attachments/assets/e7a1cde8-ef06-437b-8e56-df995677a962)
+### Infra & Collaboration
+![협업_기술스택](https://github.com/user-attachments/assets/e62d7974-5667-4b04-b5b9-be0865170618)
 
 
 <br>
