@@ -82,22 +82,22 @@
 ### ✔︎ 스터디 지원
 
 - **스터디 모집공고 상세 페이지에서 원하는 스터디 모집공고에 지원할 수 있어요.**
-<img width="600" src="readme-files/apply.gif">
+<img width="600" src="readme-files/apply_2.0.gif">
 
 ### ✔︎ 스터디 생성
 
 - **로그인한 사용자는 스터디 생성페이지에서 스터디를 생성할 수 있어요.**
-<img width="600" src="readme-files/study.gif">
+<img width="600" src="readme-files/study_2.0.gif">
 
 ### ✔︎ 스터디 모집공고 생성
 
 - **생성된 스터디에 대한 모집공고를 생성할 수 있어요.**
-<img width="600" src="readme-files/recruitment.gif">
+<img width="600" src="readme-files/recruitment_2.0.gif">
 
 ### ✔︎ 마이페이지
 
 - **마이페이지에서 참여중인 스터디, 지원한 스터디, 진행 완료된 스터디를 한눈에 확인할 수 있어 효율적인 학습 관리가 가능해요.**
-<img width="600" src="readme-files/mypage.gif">
+<img width="600" src="readme-files/mypage_2.0.gif">
 
 <br>
 
