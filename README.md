@@ -51,7 +51,7 @@
 
 #### ✔︎ 2차 마일스톤 : 2024.04.02 ~ 2024.07.11
 
-#### ✔︎ [2차 유저 테스트 : 2024.05.04 ~ 2024.05.11 [9건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%202%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+#### ✔︎ [2차 유저 테스트 : 2024.05.04 ~ 2024.05.11 [9건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%202%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf) . [랜딩 페이지 [링크]](https://www.figma.com/proto/8ok7UVNbYMUeEEohRKDylX/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80?type=design&node-id=1-132&t=1jpikPUnpZNdRckS-1&scaling=min-zoom&page-id=0%3A1)
 
 #### ✔︎ [3차 유저 테스트 : 2024.07.04 ~ 2024.07.11 [32건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%203%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
@@ -95,28 +95,20 @@
 - **모집공고 모아보기 페이지에서는 필터를 통해 원하는 스터디 모집공고를 확인할 수 있어요.**
 <img width="600" src="readme-files/filter-search.gif">
 
-<br>
-
 ### ✔︎ 스터디 지원
 
 - **스터디 모집공고 상세 페이지에서 원하는 스터디 모집공고에 지원할 수 있어요.**
 <img width="600" src="readme-files/apply_2.0.gif">
-
-<br>
 
 ### ✔︎ 스터디 생성
 
 - **로그인한 사용자는 스터디 생성페이지에서 스터디를 생성할 수 있어요.**
 <img width="600" src="readme-files/study_2.0.gif">
 
-<br>
-
 ### ✔︎ 스터디 모집공고 생성
 
 - **생성된 스터디에 대한 모집공고를 생성할 수 있어요.**
 <img width="600" src="readme-files/recruitment_2.0.gif">
-
-<br>
 
 ### ✔︎ 마이페이지
 
@@ -134,14 +126,10 @@
 <img width="600" src="readme-files/reliability1_2.0.png">
 <img width="600" src="readme-files/reliability2_2.0.png">
 
-<br>
-
 ### ✔︎ 자동 출석 체크 시스템
 
 - **번거로운 출석 확인 작업을 자동화한 시스템으로 버튼 하나로 모든 스터디원의 출석 체크 현황을 파악할 수 있어요.**
 <img width="600" src="readme-files/AutomaticAttendance_2.0.gif">
-
-<br>
 
 ### ✔︎ 실시간 알림 시스템
 
