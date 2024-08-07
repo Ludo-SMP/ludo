@@ -13,6 +13,22 @@
 
 ## 📎 [Ludo 바로가기](https://ludo.study/)
 
+## Team Ludo
+### 💭 팀 마인드셋
+1. 사용자를 우선하는 관점에서 프로덕트 만들기
+2. 현업 프로세스와 유사한 협업과정 경험
+3. 유지가능한 서비스 만들기
+4. 기술 역량 향상
+5. 실 사용자가 있는 서비스를 개발 및 운영
+
+### 🙋🏻‍♂️ Member
+
+|                           Backend                            |                           Backend                            |                           Backend                            |                           Frontend                           |                           Frontend                           |                           Frontend                           |                            Design                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <a href="https://github.com/Hugh-KR"><br/>            <img src="https://avatars.githubusercontent.com/u/83931353?v=4" width="120px;" height="120px;" alt="휴"/><br/><h3><b>창혁(Hugh)</b></h3></a> | <a href="https://github.com/june-777"><br/>            <img src="https://avatars.githubusercontent.com/u/68291395?v=4" width="120px;" height="120px;" alt="김준기"/><br/><h3><b>준기(Archa)</b></h3></a> | <a href="https://github.com/zxcev"><br/>            <img src="https://avatars.githubusercontent.com/u/121966058?v=4" width="120px;" height="120px;" alt="빽"/><br/><h3><b>승호(Back)</b></h3></a> | <a href="https://github.com/SungHyun627"><br/>            <img src="https://github.com/Ludo-SMP/ludo-frontend/assets/62270427/17abec8f-0a5b-4993-83ce-05b5bebbc2fa" width="120px;" height="120px;" alt="성현"/><br/><h3><b>성현(Hyun)</b></h3></a> | <a href="https://github.com/hyosin-Jang"><br/>            <img src="https://avatars.githubusercontent.com/u/71035113?v=4" width="120px;" height="120px;" alt="효신"/><br/><h3><b>효신(Claire)</b></h3></a> | <a href="https://github.com/abiriadev"><br/>            <img src="https://avatars.githubusercontent.com/u/72962900?v=4" width="120px;" height="120px;" alt="헌의"/><br/><h3><b>헌의(Abiria)</b></h3></a> | <a><br/><img src="https://github.com/user-attachments/assets/d7278a73-0c93-494c-a57c-2ab351cd5932" width="120px;" height="120px;" alt="정효"/><br/><h3><b>정효(Poki)</b></h3></a> |
+
+<br>
+
 ## **🧑‍🎨 프로젝트 기획 의도**
 
 - **누구나 쉽고 빠르게 지속 가능한 스터디에 참여할 수 있는 플랫폼입니다. 스터디 지원부터 참여, 관리까지 모든 과정을 한 곳에서 통합적으로 관리해 지속 가능한 학습 환경을 조성하는 것을 목표로 하고 있습니다.**
@@ -138,64 +154,6 @@
 ## 기대효과
 
 **누구나 쉽고 빠르게 지속 가능한 스터디에 참여할 수 있는 플랫폼을 개발하여, 스터디 문화가 적극적으로 활성화 되지 않은 지역의 교육적 격차를 없애고 정보의 불평등을 해소할 수 있을 것으로 기대합니다.**
-
-<br>
-
-## Ludo Team
-### 💭 팀 마인드셋
-1. 사용자를 우선하는 관점에서 프로덕트 만들기
-2. 현업 프로세스와 유사한 협업과정 경험
-3. 유지가능한 서비스 만들기
-4. 기술 역량 향상
-5. 실 사용자가 있는 서비스를 개발 및 운영
-
-### 🙋🏻‍♂️ BE 팀원
-
-<table >
-  <tbody>
-      <td align="center">
-        <a href="https://github.com/Hugh-KR">
-            <img src="https://avatars.githubusercontent.com/u/83931353?v=4" width="200px;" height="200px;" alt="휴"/>
-<h3><b>창혁(Hugh)</b></h3></a></td>
-        <td align="center">
-        <a href="https://github.com/june-777">
-            <img src="https://avatars.githubusercontent.com/u/68291395?v=4" width="200px;" height="200px;" alt="김준기"/>
-<h3><b>준기(Archa)</b></h3></a></td>
-        <td align="center">
-        <a href="https://github.com/zxcev">
-            <img src="https://avatars.githubusercontent.com/u/121966058?v=4" width="200px;" height="200px;" alt="빽"/>
-<h3><b>승호(Back)</b></h3></a></td>
-  </tbody>
-</table>
-
-### 🙋🏻‍♂️ FE 팀원
-
-<table >
-  <tbody>
-        <td align="center">
-        <a href="https://github.com/SungHyun627">
-            <img src="https://github.com/Ludo-SMP/ludo-frontend/assets/62270427/17abec8f-0a5b-4993-83ce-05b5bebbc2fa" width="200px;" height="200px;" alt="성현"/>
-<h3><b>성현(Hyun)</b></h3></a></td>
-    <td align="center">
-        <a href="https://github.com/hyosin-Jang">
-            <img src="https://avatars.githubusercontent.com/u/71035113?v=4" width="200px;" height="200px;" alt="효신"/>
-<h3><b>효신(Claire)</b></h3></a></td>
-      <td align="center">
-        <a href="https://github.com/abiriadev">
-            <img src="https://avatars.githubusercontent.com/u/72962900?v=4" width="200px;" height="200px;" alt="헌의"/>
-<h3><b>헌의(Abiria)</b></h3></a></td>
-  </tbody>
-</table>
-
-### 🙋🏻‍♂️ Design 팀원
-
-<table >
-  <tbody>
-        <td align="center">
-            <img src="https://github.com/user-attachments/assets/d7278a73-0c93-494c-a57c-2ab351cd5932" width="200px;" height="200px;" alt="정효"/>
-<h3><b>정효(Poki)</b></h3></td>
-  </tbody>
-</table>
 
 <br>
 
