@@ -8,7 +8,8 @@
   걱정마세요. 당신이 원하는 스터디 Ludo가 찾아드릴게요.
   <br/><br/>
 
-  [<img src="https://img.shields.io/badge/-ludo.study-important?style=flat&logo=google-chrome&logoColor=white&color=#25C2A0" />](https://ludo.study) [<img src="https://img.shields.io/badge/-introduction-blue?style=flat&logo=google-chrome&logoColor=white" />](https://coherent-stool-91c.notion.site/Ludo-3b08f55b652b475c991bfadf372e6f33) [<img src="https://img.shields.io/badge/release-v2.0.0-critical?style=flat&logo=google-chrome&logoColor=white" />]()
+  
+[<img src="https://img.shields.io/badge/-ludo.study-9999FF?style=flat&logo=google-chrome&logoColor=white" />](https://ludo.study) [<img src="https://img.shields.io/badge/introduction-FFA116?style=flat&logo=notion&logoColor=white" />](https://coherent-stool-91c.notion.site/Ludo-3b08f55b652b475c991bfadf372e6f33) [<img src="https://img.shields.io/badge/license-MIT-0ABF53?style=flat" />](https://github.com/Ludo-SMP/.github/blob/main/LICENSE) [<img src="https://img.shields.io/badge/release-v2.0.0-0ABF53?style=flat" />]()
 </div>
 
 ## 📎 [Ludo 바로가기](https://ludo.study/)
@@ -45,17 +46,17 @@
 
 ### ✔︎ 진행기간 : 2023.12.15 ~ 진행 중
 
-#### ✔︎ 1차 마일스톤 : 2023.12.15 ~ 2024.03.15
+  - ✔︎ **1차 마일스톤 : 2023.12.15 ~ 2024.03.15**
 
-#### ✔︎ [1차 유저 테스트 : 2024.03.26 ~ 2024.03.30 [21건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%201%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+    - ✔︎ [1차 유저 테스트 : 2024.03.26 ~ 2024.03.30 [21건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%201%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
-#### ✔︎ 2차 마일스톤 : 2024.04.02 ~ 2024.07.11
+  - ✔︎ **2차 마일스톤 : 2024.04.02 ~ 2024.07.11**
 
-#### ✔︎ [2차 유저 테스트 : 2024.05.04 ~ 2024.05.11 [9건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%202%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf) . [랜딩 페이지 [링크]](https://www.figma.com/proto/8ok7UVNbYMUeEEohRKDylX/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80?type=design&node-id=1-132&t=1jpikPUnpZNdRckS-1&scaling=min-zoom&page-id=0%3A1)
+    - ✔︎ [2차 유저 테스트 : 2024.05.04 ~ 2024.05.11 [9건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%202%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf) . [랜딩 페이지 [링크]](https://www.figma.com/proto/8ok7UVNbYMUeEEohRKDylX/%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80?type=design&node-id=1-132&t=1jpikPUnpZNdRckS-1&scaling=min-zoom&page-id=0%3A1)
 
-#### ✔︎ [3차 유저 테스트 : 2024.07.04 ~ 2024.07.11 [32건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%203%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
+    - ✔︎ [3차 유저 테스트 : 2024.07.04 ~ 2024.07.11 [32건]](https://github.com/Ludo-SMP/ludo/blob/main/user-feedbacks/Ludo%203%E1%84%8E%E1%85%A1%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%83%E1%85%B3%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%83%E1%85%A1%E1%86%B8%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
-#### ✔︎ 3차 마일스톤 : 2024.07.16 ~ 2024.09.03
+  - ✔︎ **3차 마일스톤 : 2024.07.16 ~ 2024.09.03**
 
 <br>
 
@@ -63,25 +64,25 @@
 
 ### 🖌 기획
 
-#### 📓 [유저 스토리](https://docs.google.com/spreadsheets/d/14xlWLKUEV8hrthsYjRFmHcRLDtWRKmthFgiiYNGrhwA/edit#gid=0) 
+  - 📓 [유저 스토리](https://docs.google.com/spreadsheets/d/14xlWLKUEV8hrthsYjRFmHcRLDtWRKmthFgiiYNGrhwA/edit#gid=0) 
 
-#### 📓 [페이지 Flow Chart](https://www.figma.com/file/aCw6w4LCjTczfRGlmD1bhV/Page-flow-chart?type=whiteboard&node-id=0-1&t=99pRF5UZwzy7u5i5-0) <br>
+  - 📓 [페이지 Flow Chart](https://www.figma.com/file/aCw6w4LCjTczfRGlmD1bhV/Page-flow-chart?type=whiteboard&node-id=0-1&t=99pRF5UZwzy7u5i5-0) <br>
 
-#### 📓 [브레인 스토밍](https://www.figma.com/file/VSxOLuyKKZobloOcFja93N/Brain-storming?type=whiteboard&node-id=2-94&t=UZ5vevbuqABdPsBq-0)
+  - 📓 [브레인 스토밍](https://www.figma.com/file/VSxOLuyKKZobloOcFja93N/Brain-storming?type=whiteboard&node-id=2-94&t=UZ5vevbuqABdPsBq-0)
 
-#### 📓 [IA(정보 구조도)](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=206-31&mode=design&t=YTrENpZjUN2rJ4Dj-0)
+  - 📓 [IA(정보 구조도)](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=206-31&mode=design&t=YTrENpZjUN2rJ4Dj-0)
 
 ### 📄 기능 명세
 
-#### 📓 [API 설계서](http://35.227.190.157/api/swagger-ui/index.html#/)
+  - 📓 [API 설계서](http://35.227.190.157/api/swagger-ui/index.html#/)
 
-#### 📓 [페이지 기능명세서](https://docs.google.com/spreadsheets/d/1TejPT93Gi3ztsGqPt5lpAY1UMFvruP80D9pFmkwy1fI/edit?invite=CLS0q4EH#gid=0)
+  - 📓 [페이지 기능명세서](https://docs.google.com/spreadsheets/d/1TejPT93Gi3ztsGqPt5lpAY1UMFvruP80D9pFmkwy1fI/edit?invite=CLS0q4EH#gid=0)
 
 ### 🎨 디자인
 
-#### 📓 [페이지 디자인](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=281-174&mode=design&t=TeYlIf3mTucRE1I6-0)
+  - 📓 [페이지 디자인](https://www.figma.com/file/Sho4QHn0XqEptYBBlbf704/Page-Layout?type=design&node-id=281-174&mode=design&t=TeYlIf3mTucRE1I6-0)
 
-#### 📓 [디자인 시스템](https://www.figma.com/file/OLgSF11mOFN5MpcYzpD3N3/Design-System?type=design&node-id=1121-950&mode=design&t=2ZrFmOMMTcunVk5h-0)
+  - 📓 [디자인 시스템](https://www.figma.com/file/OLgSF11mOFN5MpcYzpD3N3/Design-System?type=design&node-id=1121-950&mode=design&t=2ZrFmOMMTcunVk5h-0)
 
 <br>
 
@@ -145,7 +146,7 @@
 
 <br>
 
-## 🛠️ Tech Stacks
+## 🛠️ 기술스택
 
 ### Back-end
 ![백엔드_기술스택](https://github.com/user-attachments/assets/fcce9f9c-a632-4c55-9384-cf4c249341df)
@@ -159,21 +160,19 @@
 
 <br>
 
-## 🔨 Architecture
-
-![1695948352414](https://github.com/user-attachments/assets/283d500d-4fe4-4006-a779-034d5791c67e)
+## 🔨 아키텍처
 
 ![Ludo-아키텍처 구조 (1201 x 601 px)](https://github.com/user-attachments/assets/3648a3ff-b92e-4db0-aa1d-123e024b4569)
 
 <br>
 
-## 💾 Database Structure
+## 💾 DB 구조
 
 ![ludo-ERD](https://github.com/user-attachments/assets/b43b7bb5-33a4-4638-8371-c295325121de)
 
 <br>
 
-## Branch Convention
+## Branch 컨벤션
 
 ```
 main: 최종 배포 (ver 1.0)
@@ -187,18 +186,13 @@ feature/관련 항목: 관련 항목에 대한 기능 구현
 
 <br>
 
-## PR Convention
+## PR 컨벤션
 
-### Format
-
-```
-type(Capitalization 적용): subject 관련 label 적용
-
-```
+### Conventional Commits 적용
 
 <br>
 
-## Commit Convention
+## Commit 컨벤션
 
 ### Format
 
@@ -210,7 +204,7 @@ body
 
 <br>
 
-## Convention Guide
+## 컨벤션 가이드
 
 ### type
 
